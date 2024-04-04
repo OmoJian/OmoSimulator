@@ -1,0 +1,29 @@
+{
+    "name": "Jane",
+    "gender": "female",
+    "age": "15",
+    "maximal_urine": 1000,
+    "urine_income_bounds": [
+        5,
+        7
+    ],
+    "min_sphincter_leaking_power": 20,
+    "leak_volume_bounds": [
+        10,
+        16
+    ],
+    "embarrassment_decay": 3,
+    "thirst_increase": 2,
+    "underwear": {
+        "name": "Panties",
+        "pressure": 2,
+        "absorption": 4,
+        "drying": 1
+    },
+    "outerwear": {
+        "name": "Jeans",
+        "pressure": 7,
+        "absorption": 12,
+        "drying": 1.2
+    }
+}
